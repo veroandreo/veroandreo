@@ -1,16 +1,12 @@
 ### Hi there 👋
 
-<!--
-**veroandreo/veroandreo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I work as a researcher and lecturer at [Gulich Institute](https://ig.conae.unc.edu.ar/) - Argentinian Space Agency [(CONAE)](https://www.argentina.gob.ar/ciencia/conae) in Córdoba, Argentina
+- :mortar_board: I am a biologist and I hold a PhD in Biological Sciences and an MSc in Remote Sensing and GIS applications
+- :microscope: My research is focused on uncovering **environmental drivers of vector-borne disease outbreaks** :mosquito: :satellite: :earth_americas:
+- :pushpin: I'm interested in remote sensing time series, image analysis, GIS, machine learning, SDM, Free and Open Source Software
+- 🤓 I am part of the [GRASS GIS](https://grass.osgeo.org/) Development team, currently serving as **PSC chair**
+- :technologist: I'm also the Program Committee chair for [**FOSS4G 2021**](2021.foss4g.org/), the [OSGeo](https://www.osgeo.org/) international conference
+- :teacher: I teach GRASS GIS workshops and courses
+- 🌱 I’m currently learning numpy, matplotlib, pandas and scikit-learn Python packages
+- 📫 How to reach me: veroandreo@gmail.com
+- 😄 Pronouns: she/her
