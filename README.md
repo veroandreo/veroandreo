@@ -7,4 +7,3 @@
 - 🤓 I am part of the [GRASS GIS](https://grass.osgeo.org/) Development team, currently serving as **PSC chair**
 - :technologist: I was also the Program Committee chair for [**FOSS4G 2021**](2021.foss4g.org/), the [OSGeo](https://www.osgeo.org/) international conference
 - :teacher: I teach workshops and courses on remote sensing and GIS using GRASS GIS 
-- 😄 Pronouns: she/her
